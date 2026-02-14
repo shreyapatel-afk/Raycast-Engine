@@ -1,1 +1,0 @@
-os.path.exists(image_path)
